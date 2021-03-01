@@ -1,0 +1,12 @@
+@media (max-width:1000px)
+{
+    #brand-one {
+        display: inline-block;
+    }
+    #brand-two{
+        display: none;
+    }
+    .nav-item i {
+        text-align: center;
+    }
+}
