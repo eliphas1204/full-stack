@@ -9,6 +9,8 @@
 
 body {
     font-family: "BrownStd";
+    color:grey;
+    scroll-behavior: smooth;
 } 
 .header {
     height: 90vh;
@@ -69,4 +71,9 @@ body {
    text-align: center;
    padding-top: 10px;
   
+}
+
+.trending .col-md-4{
+    padding: 15px;
+    font-size: 90%;
 }
